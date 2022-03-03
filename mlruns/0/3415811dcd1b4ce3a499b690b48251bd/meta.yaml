@@ -1,0 +1,15 @@
+artifact_uri: file:///home/firas/PycharmProjects/test2/mlruns/0/3415811dcd1b4ce3a499b690b48251bd/artifacts
+end_time: 1646300820280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3415811dcd1b4ce3a499b690b48251bd
+run_uuid: 3415811dcd1b4ce3a499b690b48251bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646300804112
+status: 3
+tags: []
+user_id: firas
